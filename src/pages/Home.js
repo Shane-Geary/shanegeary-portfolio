@@ -24,14 +24,14 @@ class Home extends Component {
 
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="index.html">This is Massively</a></li>
-							<li><a href="generic.html">Generic Page</a></li>
+							<li class="active"><a href="index.html">About Me</a></li>
+							<li><a href="generic.html">Technical Projects</a></li>
 							<li><a href="elements.html">Elements Reference</a></li>
 						</ul>
 						<ul class="icons">
 							<li><a href="https://www.linkedin.com/in/shanegeary/" class="icon brands fa-linkedin"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon brands fa-github"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon brands fa-medium"><span class="label">GitHub</span></a></li>
+							<li><a href="https://github.com/ShaneG25" class="icon brands fa-github"><span class="label">Facebook</span></a></li>
+							<li><a href="https://medium.com/@shanegeary1994" class="icon brands fa-medium"><span class="label">GitHub</span></a></li>
 						</ul>
 					</nav>
 
@@ -39,12 +39,18 @@ class Home extends Component {
 
 							<article class="post featured">
 								<header class="major">
-									<span class="date">April 25, 2017</span>
-									<h2><a href="#">And this is a<br />
-									massive headline</a></h2>
-									<p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam<br />
-									facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor<br />
-									amet nullam sed etiam veroeros.</p>
+									<span class="date">Bio</span>
+									<h2>A Bit<br />
+									About Myself</h2>
+									<p>My name is Shane Geary, born and raised in Colorado. Growing up with both parents being musicians 
+                                    as well as both working in the music industry, I found myself following in their footseteps and learned 
+                                    multiple instruments growing up. Down the road, I evolved into music production and sound design using computer software. 
+                                    <br />
+									From there I found an interest for programming that turned into a passion as I enrolled with <a href="https://flatironschool.com/">The Flatiron School</a> in
+                                    their Full-Stack Software Engineering course where I learned backend languages like Ruby, Ruby on Rails, SQL, and ActiveRecord.
+                                    As well as frontend languages like HTML, CSS, JavaScript, React.js and other technologies. I did several projects using these languages 
+                                    during my time there, and you can view a list of them with links to the repositories stored on GitHub <a href="generic.html">here</a>
+                                    </p>
 								</header>
 								<a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
 								<ul class="actions special">
