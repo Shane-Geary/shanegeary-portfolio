@@ -11,8 +11,7 @@ class Home extends Component {
 					<div id="intro">
 						<h1>Shane<br />
 						Geary</h1>
-						<p>A free, fully responsive HTML5 + CSS3 site template designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> for <a href="https://html5up.net">HTML5 UP</a><br />
-						and released for free under the <a href="https://html5up.net/license">Creative Commons license</a>.</p>
+						<p>Portfolio</p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
@@ -26,7 +25,7 @@ class Home extends Component {
 						<ul class="links">
 							<li class="active"><a href="index.html">About Me</a></li>
 							<li><a href="generic.html">Technical Projects</a></li>
-							<li><a href="elements.html">Elements Reference</a></li>
+							<li><a href="elements.html">Contact Me</a></li>
 						</ul>
 						<ul class="icons">
 							<li><a href="https://www.linkedin.com/in/shanegeary/" class="icon brands fa-linkedin"><span class="label">Twitter</span></a></li>
@@ -52,9 +51,9 @@ class Home extends Component {
                                     during my time there, and you can view a list of them with links to the repositories stored on GitHub <a href="generic.html">here</a>
                                     </p>
 								</header>
-								<a href="#" class="image main"><img src="images/pic01.jpg" alt="" /></a>
+								<a class="image main"><img src="images/July 2021 Grads_Part10910241024_1.jpg" alt="" /></a>
 								<ul class="actions special">
-									<li><a href="#" class="button large">Full Story</a></li>
+									<li><h2 class="logo">Flatiron Certificate</h2></li>
 								</ul>
 							</article>
 
