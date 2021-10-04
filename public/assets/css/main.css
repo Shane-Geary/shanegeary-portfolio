@@ -3875,7 +3875,7 @@ input, select, textarea {
 			}
 
 			#main > .posts > article {
-				border-color: #f3eeee;
+				border-color: silver;
 				border-left-width: 2px;
 				border-style: solid;
 				border-top-width: 2px;
@@ -4398,7 +4398,7 @@ input, select, textarea {
 	#copyright {
 		color: #ffffff;
 		position: relative;
-		color: rgba(255, 255, 255, 0.25);
+		color: rgba(245, 239, 239, 0.986);
 		cursor: default;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 0.8rem;
