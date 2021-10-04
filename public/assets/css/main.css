@@ -2998,7 +2998,7 @@ input, select, textarea {
 		}
 
 	header.major .date:before, header.major .date:after {
-		border-top-color: #6df1ca;
+		border-top-color: silver;
 	}
 
 /* Table */
@@ -3389,6 +3389,16 @@ input, select, textarea {
 		#intro h1 {
 			font-size: 5rem;
 			line-height: 1;
+			-webkit-animation:Font 10s infinite alternate;
+		}
+
+		@-webkit-keyframes Font {
+			0% {color: cyan;}
+			20% {color: crimson;}
+			40% {color: greenyellow;}
+			60% {color: orange;}
+			80% {color: pink;}
+			100% {color: yellow}
 		}
 
 		#intro p {

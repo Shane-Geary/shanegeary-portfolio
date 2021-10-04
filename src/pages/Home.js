@@ -8,7 +8,7 @@ class Home extends Component {
 					<div id="intro">
 						<h1>Shane<br />
 						Geary</h1>
-						<p>Portfolio</p>
+						<h3>Portfolio</h3>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
