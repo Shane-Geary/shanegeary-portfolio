@@ -40,9 +40,9 @@ class Home extends Component {
 									About Myself</h2>
 									<p>My name is Shane Geary, born and raised in Colorado. Growing up with both parents being musicians 
                                     as well as both working in the music industry, I found myself following in their footseteps and learned 
-                                    multiple instruments through my childhood. Down the road, I evolved into music production and sound design using computer software. 
+                                    multiple instruments through my childhood. Down the road, I evolved into music production and sound design using computer software.  
                                     <br />
-									From there I found an interest for programming that turned into a passion as I enrolled with <a href="https://flatironschool.com/">The Flatiron School</a> in
+									 From there I found an interest for programming that turned into a passion as I enrolled with <a href="https://flatironschool.com/">The Flatiron School</a> in
                                     their Full-Stack Software Engineering course where I learned backend languages like Ruby, Ruby on Rails, SQL, and ActiveRecord.
                                     As well as frontend languages like HTML, CSS, JavaScript, React.js and other technologies. I did several projects using these languages 
                                     during my time there, and you can view a list of them with links to the repositories stored on GitHub <a href="generic.html">here</a>
