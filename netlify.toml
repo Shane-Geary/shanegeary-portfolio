@@ -1,0 +1,4 @@
+[build]
+base = "shanegeary-portfolio/"
+publish = "shanegeary-portfolio/build/"
+command = "yarn build"
